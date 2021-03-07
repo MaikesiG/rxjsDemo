@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rxjsDemo"
+    }
+  },
+  "defaultProject": "rxjsDemo",
+  "cli": {
+    "analytics": "f064cbde-53d2-4893-ac7f-f1e87c5eaf9a"
+  }
 }
